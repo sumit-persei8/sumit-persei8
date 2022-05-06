@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on anything, I like to learn things and will try my best to figure out things with you :)
 - 📫 How to reach me , email me at sgupta@vendasta.com or ping me on slack @sumit 
-
+- ooo, like futurama, lets discuss fan theories
 <!---
 sumit-persei8/sumit-persei8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
